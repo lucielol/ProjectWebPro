@@ -19,7 +19,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal proyek ini.
 
 ## Konfigurasi Backend
 
-1. Meng-clone Repositori dengan Submodule:
+1. Meng-clone Repositori:
 
    ```sh
    git clone https://github.com/lucielol/ProjectWebPro.git
