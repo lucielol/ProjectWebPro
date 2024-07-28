@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lucielol/profile_desa_using_reactjs
+[submodule "backend"]
+	path = backend
+	url = https://github.com/lucielol/backendWebPro
